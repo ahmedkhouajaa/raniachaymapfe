@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "34028034355",
+    "project_id": "raniachaymapfe",
+    "storage_bucket": "raniachaymapfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34028034355:android:4da0a7349d4b443e15c646",
+        "android_client_info": {
+          "package_name": "com.example.pferaniachayma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34028034355-uvcrth7peham2jooi0ra2qal4m37dhp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pferaniachayma",
+            "certificate_hash": "3c7f91c6b6838defa8368b75636ad13d1acafc94"
+          }
+        },
+        {
+          "client_id": "34028034355-52vi7rlnh4i5cmls5oqeo75uebf44v0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPjwJXmo4HDxNUGR8hd28kiSq6MOlDMYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34028034355-52vi7rlnh4i5cmls5oqeo75uebf44v0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
